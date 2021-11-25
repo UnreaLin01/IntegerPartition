@@ -1,4 +1,5 @@
 # integerPartition
+#### 感謝0rain0協助完成最後一部分 ：）
 #### 本程式只是個人的小小練習 :)
 #### This code is just practice :)
 ## Question
